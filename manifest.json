@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "A simple list of names and birthdays. Shows \"It's Adam's birthday!\" on the day, and who's next otherwise.",
   "author": "Adam Selby",
-  "repository": "",
+  "repository": "https://github.com/adamselby/fiestaboard-plugin--birthdays",
   "documentation": "README.md",
   "icon": "cake",
   "category": "utility",
